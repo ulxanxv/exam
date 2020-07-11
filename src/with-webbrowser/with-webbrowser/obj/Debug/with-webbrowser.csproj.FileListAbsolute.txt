@@ -1,0 +1,10 @@
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\bin\Debug\with-webbrowser.exe.config
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\bin\Debug\with-webbrowser.exe
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\bin\Debug\with-webbrowser.pdb
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\obj\Debug\with-webbrowser.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\obj\Debug\with_webbrowser.Main.resources
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\obj\Debug\with_webbrowser.Properties.Resources.resources
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\obj\Debug\with-webbrowser.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\obj\Debug\with-webbrowser.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\obj\Debug\with-webbrowser.exe
+C:\Users\Artem\Desktop\Экзамен\src\with-webbrowser\with-webbrowser\obj\Debug\with-webbrowser.pdb
