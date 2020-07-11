@@ -159,7 +159,7 @@ namespace with_webbrowser
             } else if (filePath.Contains("spage.html")) {
                 secondAlgorithm();
             } else {
-                MessageBox.Show("Данная html страница незивества программе!", "Предупреждение", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Данная html-страница неизвестна программе!", "Предупреждение", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
